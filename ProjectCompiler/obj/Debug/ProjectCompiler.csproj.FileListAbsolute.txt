@@ -1,0 +1,10 @@
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\bin\Debug\ProjectCompiler.exe.config
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\bin\Debug\ProjectCompiler.exe
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\bin\Debug\ProjectCompiler.pdb
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.Form1.resources
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.Properties.Resources.resources
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.exe
+C:\Users\mahmoud\source\repos\ProjectCompiler\ProjectCompiler\obj\Debug\ProjectCompiler.pdb
